@@ -82,7 +82,7 @@ Prompt 3 (Gráficos Colorblind-safe):
 ```
 ## Prototipação e Interações
 
-Resultado final: 
+Resultado final: https://always-listen-finance.lovable.app/auth
 
 <img width="77.9" height="160.0" alt="Captura de tela 2026-07-30 173347" src="https://github.com/user-attachments/assets/b7d4b7be-f5cb-4472-a435-4e562afa367b" />
 <img width="76.4" height="169.4" alt="Captura de tela 2026-07-30 173453" src="https://github.com/user-attachments/assets/11b8edb9-dd43-4503-8384-1eb0777c2a46" />
